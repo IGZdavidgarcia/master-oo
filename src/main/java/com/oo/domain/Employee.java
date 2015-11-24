@@ -1,8 +1,5 @@
 package com.oo.domain;
 
-/**
- * Created by dgarcia on 24/11/2015.
- */
 public class Employee {
 
     private Long id;

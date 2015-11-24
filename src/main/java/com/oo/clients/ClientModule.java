@@ -5,9 +5,6 @@ import com.oo.domain.dao.EmployeeDao;
 import com.oo.reporting.EmployeeReportFormatter;
 import com.oo.reporting.FormatType;
 
-/**
- * Created by dgarcia on 24/11/2015.
- */
 public class ClientModule {
 
     private static EmployeeDao employeeDao = new EmployeeDao();

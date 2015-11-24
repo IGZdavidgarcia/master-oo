@@ -3,9 +3,6 @@ package com.oo.domain.dao;
 import com.oo.database.DatabaseConnectionManager;
 import com.oo.domain.Employee;
 
-/**
- * Created by dgarcia on 24/11/2015.
- */
 public class EmployeeDao {
 
     private DatabaseConnectionManager databaseConnectionManager = new DatabaseConnectionManager();

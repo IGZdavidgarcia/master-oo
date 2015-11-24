@@ -1,8 +1,5 @@
 package com.oo.database;
 
-/**
- * Created by dgarcia on 24/11/2015.
- */
 public class DatabaseConnectionManager {
 
     public DatabaseConnection getManagerInstance() {
