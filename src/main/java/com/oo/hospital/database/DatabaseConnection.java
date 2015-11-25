@@ -1,4 +1,4 @@
-package com.oo.database;
+package com.oo.hospital.database;
 
 public class DatabaseConnection {
 

@@ -1,4 +1,4 @@
-package com.oo.domain;
+package com.oo.hospital.domain;
 
 public class Employee {
 

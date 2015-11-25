@@ -1,9 +1,9 @@
-package com.oo.clients;
+package com.oo.hospital.clients;
 
-import com.oo.domain.Employee;
-import com.oo.domain.dao.EmployeeDao;
-import com.oo.reporting.EmployeeReportFormatter;
-import com.oo.reporting.FormatType;
+import com.oo.hospital.domain.Employee;
+import com.oo.hospital.domain.dao.EmployeeDao;
+import com.oo.hospital.reporting.EmployeeReportFormatter;
+import com.oo.hospital.reporting.FormatType;
 
 public class ClientModule {
 

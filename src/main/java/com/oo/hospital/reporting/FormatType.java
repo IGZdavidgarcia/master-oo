@@ -1,4 +1,4 @@
-package com.oo.reporting;
+package com.oo.hospital.reporting;
 
 public enum FormatType {
 

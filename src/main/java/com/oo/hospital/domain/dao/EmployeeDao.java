@@ -1,7 +1,7 @@
-package com.oo.domain.dao;
+package com.oo.hospital.domain.dao;
 
-import com.oo.database.DatabaseConnectionManager;
-import com.oo.domain.Employee;
+import com.oo.hospital.database.DatabaseConnectionManager;
+import com.oo.hospital.domain.Employee;
 
 public class EmployeeDao {
 

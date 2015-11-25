@@ -1,6 +1,6 @@
-package com.oo.reporting;
+package com.oo.hospital.reporting;
 
-import com.oo.domain.Employee;
+import com.oo.hospital.domain.Employee;
 
 public class EmployeeReportFormatter extends ReportFormatter {
 
